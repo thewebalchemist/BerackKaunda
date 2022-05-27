@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Berack 👋
+<hr />
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 
 
 <!--
